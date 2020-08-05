@@ -1,4 +1,4 @@
-```xml
+```
 {
   "basic": [
     "concepts of variables",
@@ -6,7 +6,8 @@
     "concepts of decision making",
     "Data types",
     "Operators",
-    "Basic OOP"
+    "Basic OOP",
+    "Pointer"
   ],
   "more_than_basic": {
     "data_structures": {
@@ -59,10 +60,30 @@
     },
     
   },
-  "Programdesign": [
-    "Objectorientedprogrammingandwhattoexpect",
-    "Designpatterns",
-    "Functionalprogrammingandthephilosophy"
+  "software_design": [
+    "Concepts of thread",
+    "Concepts of routine",
+    "Object oriented programming and what to expect",
+    "Design patterns",
+    "Functional programming and the philosophy",
+    "Web services",
+    "SOA",
+    "N-layer architecture",
+    "Onion architecture",
+    "CQRS",
+    "Pub/Sub",
+    "MQ",
+    "Proxy and reverse proxy",
+    "Api gateway"
+  ],
+  "languages": [
+    "Java",
+    "Go"
+  ],
+  "extra": [
+    "git",
+    "linux",
+    "docker"
   ]
 }
 ```
