@@ -22,13 +22,34 @@
       ]
     },
     "problem_solving_approaches": [
-"Understanding time complexities"
-"Concepts of divide and conquer",
-"Concepts of greedy approach",
-"Concepts of dynamic programming",
-"Concepts of recursion",
-"Concepts of backtracking",  
-    ]
+      "Understanding time complexities",
+      "Concepts of divide and conquer",
+      "Concepts of greedy approach",
+      "Concepts of dynamic programming",
+      "Concepts of recursion",
+      "Concepts of backtracking"
+    ],
+    "algorithms": {
+      "basic_searching": [
+        "Linear search",
+        "Binary search"
+      ],
+      "sorting": [
+        "Bubble sort",
+        "Insertion sort",
+        "Merge sort",
+        "Quick sort"
+      ],
+      "graph_traversing": [
+        "Inorder",
+        "Preorder",
+        "Postorder",
+        "Level order",
+        "Bellman ford",
+        "Dijkstra"
+      ]
+    },
+    
   },
   
 }
