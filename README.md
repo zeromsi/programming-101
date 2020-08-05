@@ -1,4 +1,3 @@
-```
 {
   "basic": [
     "concepts of variables",
@@ -49,8 +48,19 @@
         "Dijkstra"
       ]
     },
+    "problem_solving": {
+      "count": "50",
+      "Online judges": [
+        "leetCode",
+        "Hackerrank"
+      ],
+      
+    },
     
   },
-  
+  "Programdesign": [
+    "Objectorientedprogrammingandwhattoexpect",
+    "Designpatterns",
+    "Functionalprogrammingandthephilosophy"
+  ]
 }
-```
