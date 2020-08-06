@@ -1,3 +1,4 @@
+ [![seats](https://img.shields.io/badge/SEATS-5-orange?style=for-the-badge&color=orange)]()  [![budget](https://img.shields.io/badge/COURSE_FEE-30k-orange?style=for-the-badge&color=598234)]() [![Blog Follow](https://img.shields.io/badge/BLOG-Follow-orange?style=for-the-badge&color=212121)](https://zerospoint.blogspot.com/) 
 ```
 {
   "basic": [
@@ -51,7 +52,7 @@
       ]
     },
     "problem_solving": {
-      "count": "50",
+      "count": 50,
       "Online judges": [
         "leetCode",
         "Hackerrank"
