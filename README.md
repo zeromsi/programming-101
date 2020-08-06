@@ -54,7 +54,7 @@
     "problem_solving": {
       "count": 50,
       "Online judges": [
-        "leetCode",
+        "LeetCode",
         "Hackerrank"
       ],
       
@@ -82,9 +82,9 @@
     "Go"
   ],
   "extra": [
-    "git",
-    "linux",
-    "docker"
+    "Git",
+    "Linux",
+    "Docker"
   ]
 }
 ```
