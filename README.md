@@ -53,7 +53,7 @@
     },
     "problem_solving": {
       "count": 50,
-      "Online judges": [
+      "online_judges": [
         "LeetCode",
         "Hackerrank"
       ],
