@@ -12,13 +12,13 @@
   ],
   "more_than_basic": {
     "data_structures": {
-      "Linear": [
+      "linear": [
         "Array",
         "Stack",
         "Queue",
         "Linked-Lists"
       ],
-      "Non-linear": [
+      "non_linear": [
         "Trees",
         "Graphs"
       ]
