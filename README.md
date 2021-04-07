@@ -71,7 +71,7 @@
     "SOA",
     "N-layer architecture",
     "Onion architecture",
-    "CQRS",
+    "CQRS and event sourcing",
     "Pub/Sub",
     "MQ",
     "Proxy and reverse proxy",
