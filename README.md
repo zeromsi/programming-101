@@ -30,6 +30,10 @@
       "Concepts of dynamic programming",
       "Concepts of recursion",
       "Concepts of backtracking"
+      "Sliding window",
+      "Two pointer",
+      "Cycle detection",
+      "Intervals"
     ],
     "algorithms": {
       "basic_searching": [
