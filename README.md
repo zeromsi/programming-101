@@ -16,7 +16,9 @@
         "Array",
         "Stack",
         "Queue",
-        "Linked-Lists"
+        "LinkedList"
+        "Map"
+        "Set"
       ],
       "non_linear": [
         "Trees",
